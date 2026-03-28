@@ -9,14 +9,17 @@
 
 🎓 在读 | 💻 前端学习中
 
-- 🚀 现阶段目标：通过考核
+- 🚀 现阶段目标 ：通过考核
+- 🔍  正在学习  ：  Git
+- 
 
   ---
   
 ## 🤝 Connect with me
 <p align="center">
 - 📧 Email: 1930206750@qq.com
-
+<p align="center">
+- 📞  Tel : 13716650397
 ---
 
   ## ✨ Quote
