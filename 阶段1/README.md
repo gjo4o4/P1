@@ -16,13 +16,13 @@
 
   ## ⌨️ About Tasks
 
--[查看gj的笔记](./gj的笔记/)
+-[查看gj的笔记](./阶段1/gj的笔记/)
 
--[查看GitHub学习笔记](./GitHub学习笔记/)
+-[查看GitHub学习笔记](./阶段1/GitHub学习笔记/)
 
--[查看markdown学习笔记](./markdown学习笔记/)
+-[查看markdown学习笔记](./阶段1/markdown学习笔记/)
 
--[查看markdown进阶笔记](./markdown进阶笔记/)
+-[查看markdown进阶笔记](./阶段1/markdown进阶笔记/)
 
 ---
   
