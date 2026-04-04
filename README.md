@@ -12,6 +12,13 @@
 - 🚀 现阶段目标：通过考核
 
   ---
+
+## ⌨️ About Tasks
+
+-[查看git-idea](./git-idea/)
+-[查看阶段1](./阶段1/)
+-[查看阶段2](./阶段2/)
+-[查看阶段3](./阶段3/)
   
 ## 🤝 Connect with me
 <p align="center">
