@@ -10,8 +10,9 @@
 🎓 在读 | 💻 前端学习中
 
 - 🚀 现阶段目标：通过考核
+- 🔍  正在学习 ：HTML & CSS & Javascript
 
-  ---
+   ---
 
    ## ⌨️ About Tasks
 
