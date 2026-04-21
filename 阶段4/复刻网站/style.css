@@ -6,7 +6,7 @@
     padding:0;
    /*统一盒模型，不会因为加边框撑大盒子，页面更加稳定      */
     box-sizing:border-box;
-    font-family:"Microsoft YaHei",sans-serif:
+    font-family:"Microsoft YaHei",sans-serif;
 }
 /* 页面整体*/ 
 body{
@@ -137,7 +137,7 @@ nav a:hover{
   transition: transform 0.3s ease;
   cursor: pointer;
   position: relative;
-  z-index: 2;
+  z-index: 3;
 }
 
 /* Geek悬停放大1.2倍 */
@@ -175,7 +175,7 @@ nav a:hover{
   width: 100%;
   height: auto;
   display: block;
-  object-fit:cover
+  object-fit:cover;
 }
 
 /* ================== 具体内容板块样式 ================== */
@@ -419,18 +419,18 @@ section-about h2 {
 /*文字*/
 .contact-text ul {
   font-size: 16px;
-  line-height: 2;
-  margin-bottom: 20px;
+  line-height: 2.8;
+  margin-bottom: 15px;
   padding-left: 20px;
 }
 .contact-text li {
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 /**ps*/
 .ps {
-  font-size: 16px;
+  font-size: 14px;
   color: #666;
-  line-height: 0.5;
+  line-height: 0.4;
   margin-bottom: 40px;
 }
 /*=装饰=*/
@@ -492,22 +492,27 @@ section-about h2 {
   display: flex;
   justify-content: center;
   gap: 30px;
+  margin-top: 40px;
 }
 
-.contact-btn {
-  padding: 15px 30px;
-  background: #4CAF50;
+.contact-button {
+  padding: 8px 30px;
+  background: #2f6b31;
   color: white;
   border: none;
   border-radius: 12px;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: bold;
   cursor: pointer;
   transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0,0,0,0,15);
+  background: #388E3C;
+  transform:scale(1.05);
+  box-shadow: 0 6px 12px rgba(0,0,0,0,0.2);
 }
 
-.contact-btn:hover {
-  background: #388E3C;
+.contact-button:hover {
+  background: #225725;
   transform: scale(1.1);
 }
 
@@ -576,7 +581,7 @@ section-about h2 {
   line-height: 1.6;
 }
 .qa-answer .show{
-  max-height 300px;
+  max-height:300px;
   padding-top: 15px;
   padding-bottom: 15px;
 
