@@ -54,13 +54,13 @@ nav a:hover{
     background-color:rgba(231, 147, 68, 0.949)
   }
 /*===========================二维码=================================*/
-/*二维码
+/*二维码*/
 .nav-active{
   position:relative;
   display: inline-block;
-}*/
-/* Introduction链接悬停时显示二维码
-.nav-active.qr-code {
+}
+/* Introduction链接悬停时显示二维码*/
+.nav-active .qr-code {
   position: absolute;
   top: 100%;
   left: 0;
@@ -73,29 +73,29 @@ nav a:hover{
   z-index: 9999;
   text-align: center;
   max-width:160px;
-  box-sizing:border-box
+  box-sizing:border-box；
   opacity: 0;
   visibility: hidden;
   transition:all 0.3s ease;
-}*/
-/* 鼠标悬浮Introduction时显示二维码 
+}
+/* 鼠标悬浮Introduction时显示二维码*/ 
 .nav-active:hover .qr-code {
   opacity: 1;
   visibility: visible;
-}*/
+}
 
-/* 二维码图片大小 
+/* 二维码图片大小 */
 .qr-code img {
   width:100%;
   height:auto;
   display: block;
-}*/
-/* 二维码下方文字样式 
+}
+/* 二维码下方文字样式*/ 
 .qr-code p {
   margin:6px 0 0;
   font-size:12px;
   color: #333;
-}*/
+}
 
 /* ================== index-introduction页面 ================== */
 .section-intro {
