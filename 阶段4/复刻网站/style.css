@@ -59,7 +59,7 @@ nav a:hover{
   position:relative;
   display: inline-block;
 }
-/* Introduction的链接悬停时显示二维码*/
+/* Introduction链接悬停时显示二维码*/
 .nav-active .qr-code {
   position: absolute;
   top: 100%;
